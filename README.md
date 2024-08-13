@@ -22,7 +22,7 @@ Olá, sou amante da tecnologia, ainda não tenho muita experiência na área, ma
 
 ![Static Badge](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=black)
 
-## 📔Liguagens Mais Utilizadas
+## 📔Linguagens mais Utilizadas
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeferson-simas&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
